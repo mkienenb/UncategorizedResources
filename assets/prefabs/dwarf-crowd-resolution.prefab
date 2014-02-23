@@ -1,0 +1,10 @@
+{
+    "persisted" : true,
+    "Location" : {
+    },
+    "Character" : {},
+    "Mesh" : {
+        "mesh" : "engine:dwarf-crowd-resolution-unit-sized",
+        "material" : "engine:dwarf"
+    }
+}

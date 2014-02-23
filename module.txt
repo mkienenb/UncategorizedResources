@@ -1,0 +1,9 @@
+{
+    "id" : "UncategorizedResources",
+    "version" : "0.1.0",
+    "author" : "",
+    "displayName" : "UncategorizedResources",
+    "description" : "",
+    "dependencies" : [],
+    "isServerSideOnly" : false
+}

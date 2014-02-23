@@ -1,0 +1,10 @@
+{
+    "persisted" : true,
+    "Location" : {
+    },
+    "Character" : {},
+    "Mesh" : {
+        "mesh" : "engine:dwarf-low-res-first-try",
+        "material" : "engine:dwarf"
+    }
+}
