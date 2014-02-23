@@ -4,7 +4,7 @@
     },
     "Character" : {},
     "Mesh" : {
-        "mesh" : "engine:dwarf-low-res-first-try",
-        "material" : "engine:dwarf"
+        "mesh" : "Uncategorized:dwarf-low-res-first-try",
+        "material" : "Uncategorized:dwarf"
     }
 }

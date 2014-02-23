@@ -4,7 +4,7 @@
     },
     "Character" : {},
     "Mesh" : {
-        "mesh" : "engine:dwarf-crowd-resolution-unit-sized",
-        "material" : "engine:dwarf"
+        "mesh" : "Uncategorized:dwarf-crowd-resolution-unit-sized",
+        "material" : "Uncategorized:dwarf"
     }
 }
