@@ -1,0 +1,19 @@
+MD5Version 10
+commandline ""
+
+numFrames 0
+numJoints 0
+frameRate 24
+numAnimatedComponents 0
+
+hierarchy {
+}
+
+bounds {
+}
+
+baseframe {
+}
+
+frame 0 {
+}

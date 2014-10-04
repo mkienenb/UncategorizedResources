@@ -1,0 +1,10 @@
+{
+    "persisted" : true,
+    "Location" : {
+    },
+    "Character" : {},
+    "Mesh" : {
+        "mesh" : "UncategorizedResources:t4",
+        "material" : "UncategorizedResources:vertexColored"
+    }
+}

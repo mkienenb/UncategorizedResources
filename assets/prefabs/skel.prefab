@@ -1,0 +1,24 @@
+{
+    "persisted" : true,
+    "location" : {},
+    "DisplayName" : {
+        "name" : "Astroboy"
+    },
+    "skeletalmesh" : {
+        "mesh" : "UncategorizedResources:astroBoy_walk_Max_skel",
+        "material" : "UncategorizedResources:astroboy",
+        "animation" : "UncategorizedResources:noanim",
+        "loop" : true
+    },
+    "Animation" : {
+        "idleAnim" = "UncategorizedResources:noanim"
+    },
+    "Character" : {},
+    "CharacterMovement" : {
+        "faceMovementDirection" : true
+    },
+    "CharacterSound" : {
+        "footstepSounds" : ["Slime1", "Slime2", "Slime3", "Slime4", "Slime5"],
+        "footstepVolume" : 0.7
+    }
+}

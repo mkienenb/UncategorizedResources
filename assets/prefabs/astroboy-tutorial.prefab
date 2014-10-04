@@ -1,0 +1,10 @@
+{
+    "persisted" : true,
+    "Location" : {
+    },
+    "Character" : {},
+    "Mesh" : {
+        "mesh" : "UncategorizedResources:astroBoy_walk_Max",
+        "material" : "UncategorizedResources:astroboy"
+    }
+}
